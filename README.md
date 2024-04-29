@@ -1,6 +1,7 @@
 #First Coding Portfolio
 <h1 align "center">Hello I am Evan Drake :godmode: </h1>
 <h3 align "center">A very cool and awsome developer guy! :trollface: </h3>
+<h3 align "center">Have used Java and Python. All of these are Java though.</h3>
 
 | Number | item | description |
 | :---         |     :---:      |          ---: |
